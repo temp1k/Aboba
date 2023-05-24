@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T11:29:32.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ur5lgwx8pqUfZQZnO_ec" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-24T19:12:27.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1Jxtrid97nr87zrh1h88" version="21.3.2" type="github" pages="2">
   <diagram name="web app" id="K8F1GD1hDks1WKc48g0X">
     <mxGraphModel dx="2181" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i5bDxRatO4WwKIbyN6an" name="mobile app">
-    <mxGraphModel dx="1707" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2181" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,9 +164,6 @@
         <mxCell id="IQjAb3GVzVX6icYdSgRs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-9" target="IQjAb3GVzVX6icYdSgRs-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQjAb3GVzVX6icYdSgRs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-9" target="IQjAb3GVzVX6icYdSgRs-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-9" target="IQjAb3GVzVX6icYdSgRs-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -175,9 +172,6 @@
         </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-10" value="Переход между страницами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IQjAb3GVzVX6icYdSgRs-11" value="Запрет перехода на страницы неавторизованного пользователя&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-12" value="Отображение всех тем обсуждения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="330" width="120" height="60" as="geometry" />
@@ -220,27 +214,10 @@
         <mxCell id="IQjAb3GVzVX6icYdSgRs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-28" target="IQjAb3GVzVX6icYdSgRs-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQjAb3GVzVX6icYdSgRs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-28" target="IQjAb3GVzVX6icYdSgRs-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="790" y="320" />
-              <mxPoint x="810" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-28" target="IQjAb3GVzVX6icYdSgRs-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="790" y="320" />
-              <mxPoint x="650" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IQjAb3GVzVX6icYdSgRs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-28" target="IQjAb3GVzVX6icYdSgRs-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="790" y="320" />
-              <mxPoint x="990" y="320" />
+              <mxPoint x="790" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -259,12 +236,6 @@
         <mxCell id="IQjAb3GVzVX6icYdSgRs-32" value="Отправка сообщений в выбранной теме" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IQjAb3GVzVX6icYdSgRs-33" value="Удаление сообщения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IQjAb3GVzVX6icYdSgRs-34" value="Удаление темы обсуждения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQjAb3GVzVX6icYdSgRs-37" target="IQjAb3GVzVX6icYdSgRs-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -272,13 +243,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-37" value="Добавление в друзьия" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-38" value="Отправка запроса в друзья" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQjAb3GVzVX6icYdSgRs-39" value="Принятие запроса в друзья" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

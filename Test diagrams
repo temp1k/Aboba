@@ -1,9 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T11:15:40.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="P2R3lc2SmkZR5epAg8q-" type="github">
-  <diagram name="Page-1" id="K8F1GD1hDks1WKc48g0X">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-05-24T11:21:25.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pFGy2soTuJ4OpzySjVJQ" version="21.3.2" type="github">
+  <diagram name="web app" id="K8F1GD1hDks1WKc48g0X">
+    <mxGraphModel dx="1707" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-1" value="Схема тестирования веб приложения &quot;Forum &quot;About everything&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-2" target="ZbH5_qGrnLXGB3-2KtGh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-2" target="ZbH5_qGrnLXGB3-2KtGh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-2" target="ZbH5_qGrnLXGB3-2KtGh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-2" target="ZbH5_qGrnLXGB3-2KtGh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-2" target="ZbH5_qGrnLXGB3-2KtGh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-2" value="Проверка интерфейса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-3" value="Переход между страницами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-4" value="Запрет перехода на страницы неавторизованного пользователя&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-5" value="Отображение всех тем обсуждения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-6" value="Отображение всех сообщений в теме" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-7" target="ZbH5_qGrnLXGB3-2KtGh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-7" target="ZbH5_qGrnLXGB3-2KtGh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZbH5_qGrnLXGB3-2KtGh-7" target="ZbH5_qGrnLXGB3-2KtGh-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-7" value="Отображение профиля пользователя" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-8" value="Отображение количества созданных тем" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-9" value="Отображение друзей" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbH5_qGrnLXGB3-2KtGh-10" value="Отображение созданных тем обсуждения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

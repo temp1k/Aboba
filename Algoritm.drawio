@@ -1,9 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T09:59:37.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.4" etag="se-UwjZp8nxcBtfjKN5f" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:11:35.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vtepkSRhY1kXvqdY3iv7" version="21.3.4" type="github">
   <diagram name="Page-1" id="K8SXFnwFL8xLAaT-J2Zq">
-    <mxGraphModel>
+    <mxGraphModel dx="2514" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-1" target="qlxH2qwzMzvrJ_LaOEnO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-1" value="Регистрация пользователя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-2" target="qlxH2qwzMzvrJ_LaOEnO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-2" target="qlxH2qwzMzvrJ_LaOEnO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-2" value="Такой логин существует?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="125" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-3" target="qlxH2qwzMzvrJ_LaOEnO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-3" value="Ввод логина" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-4" target="qlxH2qwzMzvrJ_LaOEnO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-4" value="Вывод сообщения о существовании логинв" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-5" target="qlxH2qwzMzvrJ_LaOEnO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-5" value="Ввод пароля и ввод повторного пароля" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-6" target="qlxH2qwzMzvrJ_LaOEnO-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-6" target="qlxH2qwzMzvrJ_LaOEnO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-6" value="Пароли совпадают" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="530" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.585;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-7" target="qlxH2qwzMzvrJ_LaOEnO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-7" value="Ввод ФИО" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="640" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-10" target="qlxH2qwzMzvrJ_LaOEnO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-10" value="Ввод электронной почты" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="740" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-11" target="qlxH2qwzMzvrJ_LaOEnO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-11" target="qlxH2qwzMzvrJ_LaOEnO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-11" value="Электронная почту существует?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="830" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-12" target="qlxH2qwzMzvrJ_LaOEnO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-12" value="Ввод кода доступа" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="930" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-13" target="qlxH2qwzMzvrJ_LaOEnO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-13" target="qlxH2qwzMzvrJ_LaOEnO-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-13" value="Правильный ли код?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1010" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-14" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-23" target="qlxH2qwzMzvrJ_LaOEnO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-23" value="Вывод сообщения о несовпадении паролей" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-34" target="qlxH2qwzMzvrJ_LaOEnO-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-34" value="Вывод ообщения о неверном коде" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="990" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-39" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="310" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-41" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-42" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="554" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-43" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="550" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlxH2qwzMzvrJ_LaOEnO-44" target="qlxH2qwzMzvrJ_LaOEnO-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-44" value="Уведомление о неккоректно введенной почты" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="790" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-47" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="858" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-48" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="848" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-49" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1038" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxH2qwzMzvrJ_LaOEnO-50" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1038" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
